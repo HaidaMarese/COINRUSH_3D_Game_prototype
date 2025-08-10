@@ -16,7 +16,7 @@
 
 ---
 
-## 🕹 Gameplay and Mechanics
+## Gameplay and Mechanics
 ### Game Flow
 1. Start from the main menu  
 2. Click **Start Game**  
