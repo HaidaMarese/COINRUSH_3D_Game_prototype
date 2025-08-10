@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 - **Engine:** Unity (3D)  
 - **Language:** C#  
 - **Assets:**  
@@ -79,7 +79,7 @@
 
 ---
 
-## 📹 Submission Notes
+##  Submission Notes
 This repository is submitted as part of **ITCS 4231/5231 – Advanced Game Design and Development** final project requirements:  
 - Unity-made 3D game prototype  
 - Fully functional play loop  
